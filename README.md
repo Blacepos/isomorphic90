@@ -14,7 +14,7 @@ This is a prototype for a future larger board.
 - LED driver: IS313741A
 - RGB matrix uses external 5V power. This might not be necessary here, but will be in the larger board.
 
-You can view the PCB online here:
+You can view the PCBs and schematics on kicanvas.org:
 - [board1](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FBlacepos%2Fisomorphic90%2Ftree%2Fmain%2Fboard1)
 - [board2](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FBlacepos%2Fisomorphic90%2Ftree%2Fmain%2Fboard2)
 
